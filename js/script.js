@@ -13,7 +13,7 @@
         });
     });
 
-    // Fade-in animation on scroll
+    
     var fadeElements = document.querySelectorAll('.fade-in');
     window.addEventListener('scroll', function() {
         fadeElements.forEach(function(el) {
